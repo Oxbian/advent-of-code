@@ -1,3 +1,4 @@
-# advent-of-code
+# Advent of Code
+---
 
-🎄💻  Advent of Code challenge
+This repo contains my solutions for [advent of code](https://adventofcode.com/) 2023.
