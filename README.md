@@ -1,4 +1,7 @@
-# Advent of Code
+# Advent of code
 ---
 
-This repo contains my solutions for [advent of code](https://adventofcode.com/) 2023.
+Mes solutions plus ou moins bien codées à [Advent of Code](https://adventofcode.com/).
+
+- 2024 [Jours 1] - Rust
+- 2023 [Jours 1 à 5 ] - Python
